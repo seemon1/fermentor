@@ -1,2 +1,5 @@
 Lp,Qty.,Item,Unite price,Total price,Function,Link
 1,1,Heating pad, 12.00 zl , 12.00 zl ,Grzanie,www.google.pl
+2,1,Termobox, 92.00 zl , 92.00 zl ,Box,www.google.pl
+3,1,Heat,,,,
+,,,Total, 350.00 zl ,,
